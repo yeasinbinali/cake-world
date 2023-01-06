@@ -1,0 +1,42 @@
+.cake img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+.cake h2{
+    color: crimson;
+}
+.cake{
+    background: linear-gradient(to right, wheat, whitesmoke);
+    padding: 15px;
+    border-radius: 15px;
+}
+.cake button{
+    border: none;
+    background-color: rgb(255, 105, 79);
+    color: whitesmoke;
+    padding: 8px 40px;
+}
+.cake button:hover{
+    background-color: rgb(255, 44, 7);
+}
+
+@media screen and (max-width: 400) {
+    .cake {
+        padding: 0px;
+    }
+    .cake img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .cake {
+        padding: 15px;
+    }
+    .cake img {
+        width: 90px;
+        height: 90px;
+    }
+}

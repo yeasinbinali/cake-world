@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Chocolate Cake",
+      "price": 650,
+      "pound": 1,
+      "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1389&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Cake",
+      "price": 1200,
+      "pound": 2,
+      "img": "https://images.unsplash.com/photo-1558301211-0d8c8ddee6ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1536&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Black Forest Cake",
+      "price": 2700,
+      "pound": 2,
+      "img": "https://images.unsplash.com/photo-1559620192-032c4bc4674e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=429&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry Cake",
+      "price": 800,
+      "pound": 1,
+      "img": "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=633&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Rainbow Cake",
+      "price": 950,
+      "pound": 1,
+      "img": "https://plus.unsplash.com/premium_photo-1663839331126-af7d042e4912?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Caramello Cake",
+      "price": 1800,
+      "pound": 2,
+      "img": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Vanilla Cake",
+      "price": 3200,
+      "pound": 5,
+      "img": "https://images.unsplash.com/photo-1604413191066-4dd20bedf486?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cake",
+      "price": 1050,
+      "pound": 1,
+      "img": "https://images.unsplash.com/photo-1557925923-cd4648e211a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Birthday Cake",
+      "price": 1200,
+      "pound": 2,
+      "img": "https://images.unsplash.com/photo-1549312142-d1b299cfe034?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+]

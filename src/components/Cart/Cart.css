@@ -1,0 +1,45 @@
+.cart-container{
+    position: fixed;
+    right: 0;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid wheat;
+    background-color: whitesmoke;
+}
+.cart-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.cake-name{
+    padding: 0 10px 0 10px;
+}
+.dlt-btn{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.cart-btn{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+@media screen and (max-width: 399px){
+    .cart-container{
+        margin: 0;
+        width: 150px;
+    }
+    .cake-name{
+        padding: 0;
+    }
+    .cart-img{
+        width: 15px;
+        height: 15px;
+    }
+    .cart-btn{
+        margin: 0;
+    }
+}

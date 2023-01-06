@@ -1,0 +1,16 @@
+.singleCart{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.singleCart-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.singleCart-name{
+    padding: 0 10px 0 10px;
+}
